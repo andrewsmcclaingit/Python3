@@ -1,0 +1,25 @@
+2018-11-04 23:13:56.844010
+----------------------------------
+3 File(s) were found: 
+/home/zammad/Documents/Junk/test1
+/home/zammad/Documents/Junk/test3\
+/home/zammad/Documents/Junk/test@# $% ^
+All Files Deleted Successfully
+----------------------------------
+
+
+2018-11-04 23:14:09.236302
+----------------------------------
+0 File(s) were found: 
+All Files Deleted Successfully
+----------------------------------
+
+
+2018-11-04 23:16:48.540183
+----------------------------------
+3 File(s) were found: 
+/home/zammad/Documents/Junk/test1
+/home/zammad/Documents/Junk/test3\
+/home/zammad/Documents/Junk/test@# $% ^
+ERROR: Not All Files Deleted
+----------------------------------
